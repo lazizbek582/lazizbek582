@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Lazizbek Qaxorov
-- 👀 I’m interested in 
 - 🌱 I’m currently learning learning python ＆ ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lazizbek582@gmail.com or telegram @lazizbek583
 
 <!---
